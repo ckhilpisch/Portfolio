@@ -1,3 +1,6 @@
-* {
-    background-image: url(navy_gold.jpg);
+div {
+    background-image: url(/assets/waves_blue.jpg);
+    height: 500px;
+    width: 100%;
+
 }

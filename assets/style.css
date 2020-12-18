@@ -3,7 +3,8 @@
     background-color: rgb(7, 124, 85);
     height: 100%;
     color: oldlace;
-    margin: 30px;
+    margin: 40px;
+    padding: 30px;
 }
 
 .responsive {
@@ -28,6 +29,7 @@ p {
     margin: 20px;
 }
 
-.navbar-brand {
-    color:purple;
+#port_box {
+    display: flex;
+    justify-content: space-between;
 }

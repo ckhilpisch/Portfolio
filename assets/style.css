@@ -26,7 +26,10 @@ p {
 }
 
 .portpic {
-    margin: 20px;
+    text-align: center;
+    margin: 40px 75px 40px 75px;
+
+
 }
 
 #port_box {

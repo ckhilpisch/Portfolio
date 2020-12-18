@@ -1,6 +1,8 @@
-
+.bg-image {
+    background-image: url(assets/navy_gold.jpg);
+}
 .boxed {
-    background-color: rgb(7, 124, 85);
+    background-color: rgb(187, 31, 154);
     height: 100%;
     color: oldlace;
     margin: 40px;
@@ -19,10 +21,12 @@
 
 h1 {
     margin-left: 15px;
+    color: rgb(9, 9, 58);
 }
 
 p {
     margin: 15px;
+    color: rgb(9, 9, 58)
 }
 
 .portpic {

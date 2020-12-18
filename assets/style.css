@@ -4,9 +4,10 @@
 .boxed {
     background-color: rgb(187, 31, 154);
     height: 100%;
+    /*width: 100%;*/
     color: oldlace;
-    margin: 40px;
-    padding: 30px;
+    margin: 20px;
+    /*padding: 30px;*/
 }
 
 .responsive {
@@ -36,7 +37,7 @@ p {
 
 }
 
-#port_box {
+/*#port_box {
     display: flex;
     justify-content: space-between;
-}
+}*/

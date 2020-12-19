@@ -1,5 +1,12 @@
+html {
+    height: 100%;
+}
+
 body {
-    background:url(/Users/ckhilpisch/Desktop/2ND_Homework/BC_Homework2/assets/navy_gold.jpg)
+    background:url(/Users/ckhilpisch/Desktop/2ND_Homework/BC_Homework2/assets/navy_gold.jpg);
+    min-height: 100%;    
+    display: flex;
+    flex-direction: column;
 }
 
 .boxed {
@@ -35,12 +42,6 @@ p {
 .portpic {
     text-align: center;
     margin: 40px 75px 40px 75px;
-
-
-}
-
-body {
-    height: 100%;
 }
 
 .container {
@@ -48,11 +49,12 @@ body {
     margin-bottom: -70px;
 }
 
-.footer {
+footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     height: 70px;
+    margin-top: auto;
 }
 
 .social-menu {

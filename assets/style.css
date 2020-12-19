@@ -32,6 +32,13 @@ h1 {
     color: rgb(9, 9, 58);
 }
 
+h2 {
+    color: rgb(9, 9, 58)
+}
+
+label {
+    color: rgb(9, 9, 58);
+}
 p {
     margin: 15px;
     color: rgb(9, 9, 58)

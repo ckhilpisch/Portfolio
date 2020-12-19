@@ -10,7 +10,7 @@ body {
 .boxed {
     background-color: rgb(187, 31, 154);
     height: 100%;
-    width: 100%;
+    /*width: 100%;*/
     color: oldlace;
     margin: 20px;
     margin-top: 60px;
@@ -37,7 +37,7 @@ p {
     color: rgb(9, 9, 58)
 }
 
-.portpic {
+#portpic {
     text-align: center;
     margin: 40px 75px 40px 75px;
 }

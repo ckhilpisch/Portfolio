@@ -1,6 +1,7 @@
 .bg-image {
     background-image: url(assets/navy_gold.jpg);
 }
+
 .boxed {
     background-color: rgb(187, 31, 154);
     height: 100%;
@@ -39,14 +40,28 @@ p {
 }
 
 body {
-    margin-bottom: 60px;
+    height: 100%;
+}
+
+.container {
+    min-height: 100%;
+    margin-bottom: -70px;
 }
 
 .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 60px;
+    height: 70px;
+}
+
+.social-menu {
+    list-style: none;
+}
+
+.social-menu li {
+    width:80px;
+    float: left;
 }
 
 /*#port_box {

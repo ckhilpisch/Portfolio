@@ -10,11 +10,12 @@ body {
 .boxed {
     background-color: rgb(187, 31, 154);
     height: 100%;
-    /*width: 100%;*/
     color: oldlace;
     margin: 20px;
     margin-top: 60px;
+    margin-bottom:300px;
     padding: 30px;
+    opacity: 0.9;
 }
 
 .responsive {
@@ -27,20 +28,12 @@ body {
     margin: 15px;
 }
 
-h1 {
+h1, p {
     margin-left: 15px;
     color: rgb(9, 9, 58);
 }
 
-h2 {
-    color: rgb(9, 9, 58)
-}
-
-label {
-    color: rgb(9, 9, 58);
-}
-p {
-    margin: 15px;
+h2, label, legend {
     color: rgb(9, 9, 58)
 }
 
@@ -51,7 +44,9 @@ p {
 
 .container {
     flex: 1 0 auto;
-
+}
+.container-fluid {
+    flex: 1 0 auto;
 }
 
 footer {
@@ -69,8 +64,3 @@ footer {
     width:80px;
     float: left;
 }
-
-/*#port_box {
-    display: flex;
-    justify-content: space-between;
-}*/

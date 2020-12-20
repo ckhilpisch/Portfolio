@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background:url(/Users/ckhilpisch/Desktop/2ND_Homework/BC_Homework2/assets/navy_gold.jpg);
+    background:url(/Users/ckhilpisch/Desktop/2ND_Homework/BC_Homework2/assets/navy_gold.jpg) !important;
     min-height: 100%;
 }
 

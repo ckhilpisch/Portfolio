@@ -37,7 +37,7 @@ h2, label, legend {
     color: rgb(9, 9, 58)
 }
 
-#portpic {
+.img-fluid {
     padding: 20px;
     display: block;
     margin-left: auto;

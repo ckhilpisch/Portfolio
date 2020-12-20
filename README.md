@@ -16,6 +16,8 @@ Up next I decided to take on the sticky footer.   Glutton for punishment I guess
 While attempting all of the links in the footer I found out the Facebook one was broken.   I fixed that.  
 I then moved on to validating all of the code in an HMTL validator.   It was unhappy with the id I put on all the placeholders.  I removed it.  Other than that my HTML was on point.   
 I finished up by looking through CSS and cleaning it up by combining elements with identical styling.  
+After all of that, here is my webpage:
+https://ckhilpisch.github.io/BC_Homework2/
 
 
     

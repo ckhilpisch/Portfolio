@@ -16,6 +16,7 @@ body {
     margin-bottom:300px;
     padding: 30px;
     opacity: 0.9;
+    align-items: center;
 }
 
 .responsive {

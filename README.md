@@ -21,7 +21,7 @@ This website is for prospective employers.  My hope is to showcase my talents to
 Leaving room to add more to the Profile section of the pages.   Also will link my resume.
 
 # Try It!
-After all of that, here is my webpage:
+The Webpage:
 https://ckhilpisch.github.io/BC_Homework2/
 
 

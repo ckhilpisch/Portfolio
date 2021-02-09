@@ -36,6 +36,10 @@ h1, p {
 h2, label, legend {
     color: rgb(9, 9, 58)
 }
+h5 {
+    color: black;
+    text-align-last: center;
+}
 
 .img-fluid {
     padding: 20px;
@@ -62,4 +66,8 @@ footer {
 .social-menu li {
     width:80px;
     float: left;
+}
+
+.card {
+    margin: 20px;
 }

@@ -10,8 +10,9 @@ body {
 .boxed {
     background-color: rgb(187, 31, 154);
     height: 100%;
+    width: auto;
     color: oldlace;
-    margin: 20px;
+    /* margin: 20px; */
     margin-top: 60px;
     margin-bottom:300px;
     padding: 30px;
@@ -71,4 +72,5 @@ footer {
 
 .card {
     margin: 20px;
+    max-width: 350px;
 }

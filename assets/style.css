@@ -12,16 +12,12 @@ body {
     height: 100%;
     width: auto;
     color: oldlace;
-    /* margin: 20px; */
     margin-top: 40px;
-    /* margin-bottom:300px; */
     padding: 20px;
     opacity: 0.95;
     align-items: center;
     align-content: center;
 }
-
-
 
 .responsive {
     width: 100%;

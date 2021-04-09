@@ -1,7 +1,7 @@
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # <div align="center"> Portfolio Page</div>
 
-## Table of Contents:
+## <div align="center">Table of Contents:
 <ul>
 <li><a href="#description">Description</a></li>
 <li><a href="#technologies">Technologies</a></li>
@@ -11,6 +11,7 @@
 <li><a href="#questions">Questions</a></li>
 <li><a href="#license">License</a></li>
 </ul>
+</div>
 
 
 ## <div align="center"> Description : </div>

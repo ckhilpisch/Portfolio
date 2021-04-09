@@ -1,7 +1,6 @@
-# BC_Homework2
-## Portfolio Page
+# Portfolio Page
 # Requirements:
-For this assignment I was tasked with making a mobile responsive portfolio for myself utilizing both CSS and Bootstrap.  
+ Tasked with making a mobile responsive portfolio for myself utilizing both CSS and Bootstrap.  
 # Technologies Used:
 ### CSS
 ### Bootstrap
